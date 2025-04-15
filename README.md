@@ -27,7 +27,7 @@
 
 
 
-## 📸 Screenshots in case the demo website doesnt work 
+## 📸 Screenshots  
 
 ![App Screenshot](./beart/public/scbeart.png)
 
