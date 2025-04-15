@@ -15,8 +15,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/baftjarjusufi/moviesreact.git
-   cd moviesreact
+   git clone https://github.com/baftjarjusufi/beart.git
+   cd beart
 2. Install dependencies:
 
      - npm install
