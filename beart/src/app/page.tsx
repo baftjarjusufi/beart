@@ -30,6 +30,9 @@ export default function Home() {
                         </div>
                     </div>
 
+
+
+
                     {/* Blob SVG Positioned Below the Text on Mobile and Medium, to the Right on Desktop */}
                     <div className="relative sm:block md:block lg:right-10 xl:right-16 z-0">
                         <img
@@ -42,6 +45,7 @@ export default function Home() {
 
                 </div>
             </section>
+
 
             {/* Wave SVG from public folder using Image component */}
             <div className="absolute inset-x-0 bottom-0 z-10">
